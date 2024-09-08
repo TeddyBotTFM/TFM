@@ -1,4 +1,4 @@
-# Grupo 6 de la Clase 2 del Master "Máster Data Science, Big Data & Business Analytics"
+# Grupo 6 de la Clase 2 del "Máster Data Science, Big Data & Business Analytics"
 
 Este TFM busca obtener un sistema RAG que conteste preguntas relacionadas únicamente con la motivación. 
 
