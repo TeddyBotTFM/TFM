@@ -1,2 +1,0 @@
-Código del TFM (Grupo 6) (Clase 2)
-Este TFM se compone de diferentes códigos, algunos de ellos no es necesario ejectuarlos ya que su utilidad es la creación de la base de datos vectorial. Esta se encuentra ya creada en Qdrant Cloud (proporcionaremos las credenciales en la memoria)
